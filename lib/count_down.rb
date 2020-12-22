@@ -1,4 +1,4 @@
 # Write your code here
-while true do
+while (var < 3) do
   puts "hi"
 end
