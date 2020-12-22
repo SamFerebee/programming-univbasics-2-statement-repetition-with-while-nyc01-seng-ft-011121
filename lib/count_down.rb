@@ -1,7 +1,7 @@
 # Write your code here
-var = 1
-while (var < 5) do
-  puts "hi"
-  var+=1
-  break if var == 4
+num = 10 
+while (num > 0) do
+  puts num
+  num -= 1 
 end
+puts "Happy New Year!"
