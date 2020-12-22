@@ -4,6 +4,7 @@ while (var < 5) do
   puts "hi"
   var+=1
   if var == 4
+    puts "breaking!"
     break
   end
 end
